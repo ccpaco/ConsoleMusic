@@ -1,0 +1,7 @@
+C:\Users\Rylan\Documents\PerScholas\c#\OutBoardMusic\bin\Debug\OutBoardMusic.exe.config
+C:\Users\Rylan\Documents\PerScholas\c#\OutBoardMusic\bin\Debug\OutBoardMusic.exe
+C:\Users\Rylan\Documents\PerScholas\c#\OutBoardMusic\bin\Debug\OutBoardMusic.pdb
+C:\Users\Rylan\Documents\PerScholas\c#\OutBoardMusic\obj\Debug\OutBoardMusic.csprojAssemblyReference.cache
+C:\Users\Rylan\Documents\PerScholas\c#\OutBoardMusic\obj\Debug\OutBoardMusic.csproj.CoreCompileInputs.cache
+C:\Users\Rylan\Documents\PerScholas\c#\OutBoardMusic\obj\Debug\OutBoardMusic.exe
+C:\Users\Rylan\Documents\PerScholas\c#\OutBoardMusic\obj\Debug\OutBoardMusic.pdb
