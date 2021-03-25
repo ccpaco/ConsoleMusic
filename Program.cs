@@ -1,4 +1,8 @@
-﻿using System.Runtime.InteropServices;
+/* 
+TODOS:
+Write Play method that accepts a list of tone/time pairs and generates a song from them.
+*/
+using System.Runtime.InteropServices;
 
 namespace OutBoardMusic
 {
