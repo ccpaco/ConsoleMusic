@@ -6,8 +6,9 @@ namespace OutBoardMusic
     class Program {
         static void Main(string[] args) {
 
-            Song.DannyBoy();
-        
+            Song.DannyBoy(); //verse one
+            Song.DannyBoy(); //verse two
+
         }
     }
 
@@ -52,7 +53,7 @@ namespace OutBoardMusic
 
     public static class Song{
         public static void DannyBoy() {
-            Music myMusic = new Music(140);
+            Music myMusic = new Music(69);
             //Play gets called with the name of the note to be played (which is a member of the tone struct),
             //the length the note is to be played (which is a member of the time struct),
             //and the tempo in beats per minute.
